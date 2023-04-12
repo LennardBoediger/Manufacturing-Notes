@@ -5,6 +5,10 @@ Mostly a present from my past self to my future self.
 ## Pogo Pin adapter
 Neat Projekt that used a CNC machine for bulk flashing production devieses.
 I also used the the same pcb to densig a development adapter.
+<p align="left">
+  <img alt="Light" src="https://user-images.githubusercontent.com/11893651/225191337-3ef107d7-283c-41f4-8b52-923d73cc801b.jpeg" width="49%">
+  <img alt="Dark" src="https://user-images.githubusercontent.com/11893651/226744482-8359f332-c2f6-409c-b7f4-4fe418b7dfb7.jpeg" width="49%">
+</p>
 
 <img width="600" alt="CNC-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/225191337-3ef107d7-283c-41f4-8b52-923d73cc801b.jpeg">
 <img width="600" alt="DEV-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/226744482-8359f332-c2f6-409c-b7f4-4fe418b7dfb7.jpeg">
