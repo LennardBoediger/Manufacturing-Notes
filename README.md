@@ -8,8 +8,8 @@ Mostly a present from my past self to my future self.
 
 
 ## Pogo Pin adapter
-Neat Projekt that used a CNC machine for bulk flashing production devieses.
-I also used the the same pcb to densig a development adapter.
+Neat project that used a CNC Machine  for bulk flashing production devieses.
+I also used the same PCB to build a development adapter.
 <p align="left">
   <img alt="CNC-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/225191337-3ef107d7-283c-41f4-8b52-923d73cc801b.jpeg" width="49%">
   <img alt="DEV-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/226744482-8359f332-c2f6-409c-b7f4-4fe418b7dfb7.jpeg" width="49%">
@@ -17,7 +17,7 @@ I also used the the same pcb to densig a development adapter.
 
 
 CNC Flashing Projekt Notes:
-* MDF is a good material to hold down PCB's. It won't build up static Electricety and when cotated with oudoor paint humideity swelling is not to bad.
+* MDF is a good material for mounting circuit boards. It does not build up static electricity and when treated with outdoor paint, moisture swelling is not so bad.
 * Always us a jig to hold the pins at the same hight during soldering and use tweesers to push them back to rediuce the positon diviation created by oversized holes.
 <p align="left">
   <img alt="Pogo-Flasher" src="https://user-images.githubusercontent.com/11893651/225191250-fd6f4107-afd1-460c-abed-460f0ef2209c.jpeg" width="49%">
@@ -26,7 +26,7 @@ CNC Flashing Projekt Notes:
 </p>
 
 DEV Clamp Projekt Notes:
-* The PCB of the product should have feature two small holes for alignment pins so that the tolerances of the clamp would not have need to be this percise.
+* The PCB should have two small holes for alignment pins so that the tolerances of the clamp don't have to be so tight.
 * Wobble in the hinge of the development clamp can be reduced by adding a vertical wall to the lower part.
 
 <p align="left">
@@ -50,6 +50,8 @@ I had good experience wit E2 style Pogo Pins.
 Using epoxy "overcasting" as an alternative to electronic overmolding for small batch productions.
 * I like WAGNERSIL® 32 N for mouldings, use WAGNERSIL® RETARDER to extend the working time for degassing.
 * Octopus Fluids Alcohol Ink is great for colering clear epoxy. Embedded LEDs remain visible.
+<br>
+
 [![Watch the video](https://user-images.githubusercontent.com/11893651/231450295-49854f1f-7f6d-42c7-b7f2-0ce6b7a3e590.png)](https://youtu.be/hgcruwxN1sg)
 
 ## Micro Soldering
