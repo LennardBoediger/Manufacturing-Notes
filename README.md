@@ -1,6 +1,11 @@
 # Welcome to the Manufacturing-Notes!
 Documentation of my miscellaneous side tasks.
 Mostly a present from my past self to my future self. 
+  * [Pogo Pin adapter](#pogo-pin-adapter)
+  * [Electronic Overcasting](#electronic-overcasting)
+  * [Micro Soldering](#micro-soldering)
+  * [Fancy Remote Controles](#fancy-remote-controles)
+
 
 ## Pogo Pin adapter
 Neat Projekt that used a CNC machine for bulk flashing production devieses.
@@ -53,7 +58,9 @@ Using epoxy "overcasting" as an alternative to electronic overmolding for small 
 
 
 
-## Fancy Remote Controles
-![IMG_1876](https://user-images.githubusercontent.com/11893651/225194953-0f36d021-b499-404e-8bd4-45f699102c2f.jpeg)
+## Buttons, Switches and Potentiometers
+* T 113A SW: Feeling 4/10 Looks: 8/10 Mounting: Easy
+* Cherry MX: Feeling 9/10 Looks: 7/10 Mounting: Annoying
+<img alt="Micro-Soldering" src="https://user-images.githubusercontent.com/11893651/225194953-0f36d021-b499-404e-8bd4-45f699102c2f.jpeg" width="50%">
 
 
