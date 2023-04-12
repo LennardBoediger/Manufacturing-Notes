@@ -51,9 +51,9 @@ Using epoxy "overcasting" as an alternative to electronic overmolding for small 
 [![Watch the video](https://user-images.githubusercontent.com/11893651/231450295-49854f1f-7f6d-42c7-b7f2-0ce6b7a3e590.png)](https://youtu.be/hgcruwxN1sg)
 
 ## Micro Soldering
-* Enamel coating burns at 400°C, just use the soldering on that Temperature lighters are shitty for that.
-* Use UV glue or PCB lacker to hold chips in place.
-* Have a colection of Breakout Boards around next time. 🙃 
+* Enamel coatings burn at 400°C, just use the soldering iron at that temperature lighters leave soot.
+* Use UV glue or PCB lacquer to hold the chips in place.
+* Have a selection of breakout boards next time. 🙃 
 <img alt="Micro-Soldering" src="https://user-images.githubusercontent.com/11893651/225195390-9a912f08-6a18-4d68-9ea5-e65f4acb8f57.jpeg" width="50%">
 
 
