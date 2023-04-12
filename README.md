@@ -48,6 +48,8 @@ I had good experience wit E2 style Pogo Pins.
 
 ## Electronic Overcasting
 Using epoxy "overcasting" as an alternative to electronic overmolding for small batch productions.
+* I like WAGNERSIL® 32 N for mouldings, use WAGNERSIL® RETARDER to extend the working time for degassing.
+* Octopus Fluids Alcohol Ink is great for colering clear epoxy. Embedded LEDs remain visible.
 [![Watch the video](https://user-images.githubusercontent.com/11893651/231450295-49854f1f-7f6d-42c7-b7f2-0ce6b7a3e590.png)](https://youtu.be/hgcruwxN1sg)
 
 ## Micro Soldering
