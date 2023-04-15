@@ -22,7 +22,7 @@ CNC Flashing Projekt Notes:
 <p align="left">
   <img alt="Pogo-Flasher" src="https://user-images.githubusercontent.com/11893651/225191250-fd6f4107-afd1-460c-abed-460f0ef2209c.jpeg" width="49%">
   <img alt="Pogo-Closeup" src="https://user-images.githubusercontent.com/11893651/225193098-3face10b-80ca-4b5d-ac0c-f31ab7d12732.jpeg" width="49%">
-  <img width="49%" alt="Pogo-Panel" src="https://user-images.githubusercontent.com/11893651/225193904-477bd601-22f9-47d7-b85a-f97063b15ffb.png">
+  <img alt="Pogo-Panel" src="https://user-images.githubusercontent.com/11893651/232246737-b4a3850e-f5a5-4bdb-b339-5eb9780acff9.png" width="49%">
 </p>
 
 DEV Clamp Projekt Notes:
