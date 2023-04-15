@@ -10,11 +10,11 @@ Mostly a present from my past self to my future self.
 ## Pogo Pin adapter
 Neat project that used a CNC Machine  for bulk flashing production devieses.
 I also used the same PCB to build a development adapter.
-<p align="left">
-  <img alt="CNC-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/225191337-3ef107d7-283c-41f4-8b52-923d73cc801b.jpeg" width="49%">
-  <img alt="DEV-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/226744482-8359f332-c2f6-409c-b7f4-4fe418b7dfb7.jpeg" width="49%">
-</p>
 
+<p align="left">
+  <img alt="CNC-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/232246594-fee9db9f-c6ef-4036-8f4e-5818b74bc611.jpeg" width="49%">
+  <img alt="DEV-Pogo-Adapter" src="https://user-images.githubusercontent.com/11893651/232246353-5b3976f6-a8dd-4189-9536-bb829c9be3ea.jpeg" width="49%">
+</p>
 
 CNC Flashing Projekt Notes:
 * MDF is a good material for mounting circuit boards. It does not build up static electricity and when treated with outdoor paint, moisture swelling is not so bad.
