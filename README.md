@@ -31,7 +31,7 @@ DEV Clamp Projekt Notes:
 
 <p align="left">
   <img alt="Pogo-Clamp-1" src="https://user-images.githubusercontent.com/11893651/226744482-8359f332-c2f6-409c-b7f4-4fe418b7dfb7.jpeg" width="49%">
-  <img alt="Pogo-Clamp-2" src="https://user-images.githubusercontent.com/11893651/226744493-ad806582-1f1c-4849-a941-c47026156da3.jpeg" width="49%">
+  <img alt="Pogo-Clamp-2" src="https://user-images.githubusercontent.com/11893651/232245379-d910b06e-5c4f-4609-8f30-ed5f97cf872e.jpeg" width="49%">
 </p>
 
 General Pogo Pin Notes:
