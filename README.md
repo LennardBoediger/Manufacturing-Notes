@@ -67,4 +67,7 @@ Using epoxy "overcasting" as an alternative to electronic overmolding for small 
 * Cherry MX: Feeling 9/10 Looks: 7/10 Mounting: Annoying
 <img alt="Micro-Soldering" src="https://user-images.githubusercontent.com/11893651/225194953-0f36d021-b499-404e-8bd4-45f699102c2f.jpeg" width="50%">
 
-
+## PCB Prototyping Goodies
+![IMG_4875](https://github.com/user-attachments/assets/9c48269c-74f6-49b5-ad4a-33d7b8128ab3)
+2604-1103 PCB Wago terminal block <br>
+BNC ADAPTER 3.5MM NONTERMINATED <br>
